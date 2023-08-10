@@ -1,1 +1,1 @@
-# ams
+The idea is to create an online attendance management portal named attend-ker which will make the attendance system easy and efficient. Also it will let you know the status of your leaves, lectures attended. 
